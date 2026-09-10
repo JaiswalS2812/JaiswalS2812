@@ -61,23 +61,17 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/AI%20Automation-18181B?style=flat-square&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-18181B?style=flat-square&logoColor=white" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
 </p>
 
 ---
 
-## 🚀 What I'm Currently Working On
 
-```text
-Java & DSA
-    ↓
-Full Stack Development
-    ↓
-n8n & AI Automation
-    ↓
-Building Real-World Projects
+## 🚀 Currently Focused On
+
+- 🧠 Java & Data Structures & Algorithms
+- 🌐 Full Stack Development with React & Next.js
+- 🤖 n8n & AI Automation Workflows
+- 🚀 Building Real-World Projects
