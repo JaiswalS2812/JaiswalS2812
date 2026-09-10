@@ -60,22 +60,28 @@
 <h1 align="center">Hi 👋, I'm Shyam Jaiswal</h1>
 
 <p align="center">
-  <b>Computer Science Engineering Student • Full Stack Developer • Automation Enthusiast</b>
-</p>
-
-<p align="center">
-  I build web applications, explore AI-powered automation, and learn by building real-world projects.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/shyam-jaiswal-839108288" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="https://www.linkedin.com/in/shyam-jaiswal-839108288"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin"
+         height="40"
+         alt="LinkedIn"/>
   </a>
-  <a href="mailto:sshyamjai448@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email"/>
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sshyamjai448@gmail.com"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"
+         height="40"
+         alt="Gmail"/>
   </a>
-  <a href="https://github.com/JaiswalS2812" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+
+  <a href="https://github.com/JaiswalS2812"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github"
+         height="40"
+         alt="GitHub"/>
   </a>
 </p>
 
@@ -142,17 +148,29 @@
 
 ## 🌐 Let's Connect
 
-<p>
-  <a href="https://www.linkedin.com/in/shyam-jaiswal-839108288" target="_blank" rel="noopener noreferrer">
-    LinkedIn
+<p align="left">
+  <a href="https://www.linkedin.com/in/shyam-jaiswal-839108288"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=linkedin"
+         height="40"
+         alt="LinkedIn"/>
   </a>
-  &nbsp;•&nbsp;
-  <a href="mailto:sshyamjai448@gmail.com" target="_blank">
-    Email
+
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=sshyamjai448@gmail.com"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://img.icons8.com/color/48/gmail-new.png"
+         height="40"
+         alt="Gmail"/>
   </a>
-  &nbsp;•&nbsp;
-  <a href="https://github.com/JaiswalS2812" target="_blank" rel="noopener noreferrer">
-    GitHub
+
+  <a href="https://github.com/JaiswalS2812"
+     target="_blank"
+     rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=github"
+         height="40"
+         alt="GitHub"/>
   </a>
 </p>
 
