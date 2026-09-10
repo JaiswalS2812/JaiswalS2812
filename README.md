@@ -134,8 +134,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JaiswalS2812&show_icons=true&theme=transparent&hide_border=true" height="170" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=JaiswalS2812&theme=transparent&hide_border=true" height="170" alt="GitHub Streak"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=JaiswalS2812&show_icons=true&hide_border=true&theme=transparent" height="170" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=JaiswalS2812&hide_border=true&theme=transparent" height="170" alt="GitHub Streak"/>
 </p>
 
 ---
