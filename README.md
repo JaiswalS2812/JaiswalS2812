@@ -60,12 +60,13 @@
 ### 🤖 Automation & Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=n8n,docker,git,github,postman,vscode" />
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman,vscode" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/AI%20Automation-000000?style=flat&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST%20APIs-02569B?style=flat&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/AI%20Automation-18181B?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-18181B?style=flat-square&logoColor=white" />
 </p>
 
 ---
