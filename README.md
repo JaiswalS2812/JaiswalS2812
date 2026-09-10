@@ -39,8 +39,8 @@
 ## 🌐 Connect With Me  
 
 <p align="left">
-<a href="https://linkedin.com/in/shyamjaiswal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
-<a href="mailto:shyamjaiswal@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+<a href="[https://linkedin.com/in/shyamjaiswal](https://www.linkedin.com/in/shyam-jaiswal-839108288 )" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+<a href="mailto:sshyamjai448@gmail.com"><img align="center" src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
 <a href="https://github.com/shyamjaiswal" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40"/></a>
 </p>
 
