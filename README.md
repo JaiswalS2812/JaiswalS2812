@@ -1,12 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shyam Jaiswal</h1>
-<h3 align="center">A Passionate Full Stack Developer 🚀 | MERN | Next.js | Cloud Enthusiast</h3>
+<h3 align="center">A Passionate Full Stack Developer 🚀 | MERN | Next.js | n8n & AI Automation</h3>
 
 ---
 
 ## 🔥 About Me  
 - 💻 I’m a *Full Stack Developer* building scalable web apps & products  
 - 🌱 Currently diving deep into *System Design, Cloud (AWS/GCP), and DevOps*  
-- 🚀 Love solving real-world problems with clean architecture & optimized code  
+- 🚀 Love solving real-world problems with clean architecture & optimized code
+- 📍Exploring n8n, AI Automation & intelligent workflows 
 - ⚡ Fun fact: I debug faster with chai ☕  
 
 ---
@@ -22,7 +23,7 @@
 ### ☁ Tools & DevOps  
 - Git, GitHub, Docker, Kubernetes  
 - Firebase, AWS, Vercel, Netlify  
-- CI/CD, Postman, Swagger  
+- CI/CD, Postman, Swagger, n8n 
 
 ---
 
